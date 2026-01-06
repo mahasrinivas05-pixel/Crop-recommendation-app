@@ -1,0 +1,7 @@
+{
+  "name": "AgriSmart Crop Recommender",
+  "description": "An AI-powered agricultural assistant that recommends the most suitable crops based on temperature and rainfall levels using a Decision Tree classification approach.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
